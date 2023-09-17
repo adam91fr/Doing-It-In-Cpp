@@ -1,0 +1,55 @@
+*** Employee number 1 ***
+Status=1
+Name=Joe Jones
+Salary type=0
+Salary=40000
+Hire Date=1995/10/10
+
+*** Employee number 2 ***
+Status=0
+Name=Roger Right
+Salary type=1
+Salary=8
+Hire Date=1996/1/1
+
+*** Employee number 3 ***
+Status=0
+Name=Sally Strong
+Salary type=0
+Salary=30000
+Hire Date=1995/1/2
+
+*** Employee number 4 ***
+Status=0
+Name=Nathan North
+Salary type=0
+Salary=40000
+Hire Date=1995/10/10
+
+*** Employee number 5 ***
+Status=0
+Name=Joe Jones
+Salary type=0
+Salary=40000
+Hire Date=1995/10/10
+
+*** Employee number 6 ***
+Status=0
+Name=Sam Smith
+Salary type=1
+Salary=8
+Hire Date=1996/1/1
+
+*** Employee number 7 ***
+Status=0
+Name=Sally Strong
+Salary type=0
+Salary=30000
+Hire Date=1995/1/2
+
+*** Employee number 8 ***
+Status=0
+Name=Nathan North
+Salary type=0
+Salary=40000
+Hire Date=1995/10/10

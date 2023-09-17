@@ -1,0 +1,9 @@
+﻿  ARRAY.CPP
+  DATE.CPP
+  EMPLOYEE.CPP
+C:\Users\jjlef\source\repos\ProjectCpp\ProjectCpp\EMPLOYEE.CPP(199,16): warning C4267: '=' : conversion de 'size_t' en 'int', perte possible de données
+  EMPTRANS.CPP
+  MAIN.CPP
+  MODIFSTM.CPP
+  Génération de code en cours...
+  ProjectCpp.vcxproj -> C:\Users\jjlef\source\repos\ProjectCpp\x64\Debug\ProjectCpp.exe
